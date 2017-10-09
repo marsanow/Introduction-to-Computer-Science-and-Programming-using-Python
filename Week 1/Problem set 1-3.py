@@ -3,7 +3,7 @@
 """
 Created on Fri Jun 23 10:38:17 2017
 
-@author: martuska
+@author: mar
 """
 
 
@@ -57,17 +57,4 @@ for letter in s:
                 currentSubstring = ""
                 continue
 print("Longest substring in alphabetical order is: " + str(longestSoFar))
-
-
-
-
-
-
-
-
-
-
-
-
-
 

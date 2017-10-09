@@ -3,7 +3,7 @@
 """
 Created on Sun Jun 18 15:38:52 2017
 
-@author: martuska
+@author: mar
 """
 
 """
